@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\User\AppData\Roaming\SpaceEngineers\IngameScripts\Helper-Classes\Helper-Classes\Source.cpp(1,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Helper-Classes.vcxproj -> C:\Users\User\AppData\Roaming\SpaceEngineers\IngameScripts\Helper-Classes\x64\Debug\Helper-Classes.exe
