@@ -2,5 +2,5 @@
 
 void main() {
 	writeLog("Error write failed", 4, false, "test");
-	analyzeLog("test");
+	//analyzeLog("test");
 }

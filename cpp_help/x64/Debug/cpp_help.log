@@ -1,3 +1,3 @@
-﻿  Source.cpp
-C:\Users\teche\source\repos\cpp_help\cpp_help\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  logger.cpp
+C:\Users\teche\source\repos\cpp_help\cpp_help\logger.cpp(60,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
   cpp_help.vcxproj -> C:\Users\teche\source\repos\cpp_help\x64\Debug\cpp_help.exe
