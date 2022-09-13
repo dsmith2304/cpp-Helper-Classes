@@ -44,10 +44,10 @@ void analyzeLog(std::string logName) {
 	while (!input_file.eof()) {
 	 splitString = _strdup(line.c_str());
 
-	 auto pos = find(messages.begin(), messages.end(), strtok(splitString, "{"));
+	 auto pos = find(messages.begin(), messages.end(), strtok(splitString, ":"));
 	 
 	 if (pos == messages.end()) {
-		 messages.push_back(strtok(splitString, "{"));
+		 messages.push_back(strtok(splitString, ":"));
 		 messageCount.push_back(1);
 	 }
 	 else {
