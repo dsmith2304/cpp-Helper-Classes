@@ -1,0 +1,7 @@
+Error opening log error:	 Severity :2	Fri Sep 16 10:43:06 2022
+Error opening log loggerErrors:	 Severity :2	Fri Sep 16 10:44:45 2022
+Error opening log loggerErrors:	 Severity :2	Fri Sep 16 10:44:50 2022
+Error opening log loggerErrors:	 Severity :2	Fri Sep 16 10:44:59 2022
+Error opening log loggerErrors:	 Severity :2	Fri Sep 16 10:46:39 2022
+Error opening log loggerErrors:	 Severity :2	Fri Sep 16 10:47:13 2022
+Error opening log loggerErrors:	 Severity :2	Fri Sep 16 10:47:47 2022

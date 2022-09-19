@@ -13,3 +13,4 @@ using namespace std;
 
 void writeLog(std::string msg, int Severity, bool releaseWrite, std::string logName);
 void analyzeLog(std::string logName);
+void runLogger();
