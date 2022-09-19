@@ -1,5 +1,8 @@
-﻿  Menu.cpp
-  Source.cpp
-C:\Users\teche\source\repos\cpp_help\cpp_help\Source.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  Source.cpp
+C:\Users\teche\source\repos\cpp_help\cpp_help\Menu.h(12,1): warning C4005: 'PATH': macro redefinition
+C:\Users\teche\source\repos\cpp_help\cpp_help\config.h(5): message : see previous definition of 'PATH'
+C:\Users\teche\source\repos\cpp_help\cpp_help\Source.cpp(4,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  config.cpp
+C:\Users\teche\source\repos\cpp_help\cpp_help\config.cpp(79,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
   Generating Code...
   cpp_help.vcxproj -> C:\Users\teche\source\repos\cpp_help\x64\Debug\cpp_help.exe

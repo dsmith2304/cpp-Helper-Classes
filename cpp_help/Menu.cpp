@@ -19,7 +19,7 @@ std::string getMenuOption(std::vector<std::string> options) {
 	}
 }
 /// <summary>
-/// set path to "" to get default path "./Menus/
+/// set path to "0" to get default path "./Menus/
 /// </summary>
 /// <param name="filename"></param>
 /// <param name="path"></param> 
